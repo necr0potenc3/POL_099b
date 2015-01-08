@@ -1,0 +1,12 @@
+\Compiler\
+\Executor\
+\.svn\
+\CVS\
+.user\
+.ncb\
+.zip\
+.txt\
+.bak\
+.doc\
+.tlog\
+.log\
